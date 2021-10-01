@@ -1,0 +1,13 @@
+D:\Files\SCHOOL STUFF\Computer Science\Projects\genetic_algorithm\genetic_algorithm\obj\Debug\genetic_algorithm.csprojResolveAssemblyReference.cache
+D:\Files\SCHOOL STUFF\Computer Science\Projects\genetic_algorithm\genetic_algorithm\bin\Debug\genetic_algorithm.exe.config
+D:\Files\SCHOOL STUFF\Computer Science\Projects\genetic_algorithm\genetic_algorithm\bin\Debug\genetic_algorithm.exe
+D:\Files\SCHOOL STUFF\Computer Science\Projects\genetic_algorithm\genetic_algorithm\bin\Debug\genetic_algorithm.pdb
+D:\Files\SCHOOL STUFF\Computer Science\Projects\genetic_algorithm\genetic_algorithm\obj\Debug\genetic_algorithm.exe
+D:\Files\SCHOOL STUFF\Computer Science\Projects\genetic_algorithm\genetic_algorithm\obj\Debug\genetic_algorithm.pdb
+D:\Files\SCHOOL STUFF\Project\genetic_algorithm\genetic_algorithm\bin\Debug\genetic_algorithm.exe.config
+D:\Files\SCHOOL STUFF\Project\genetic_algorithm\genetic_algorithm\bin\Debug\genetic_algorithm.exe
+D:\Files\SCHOOL STUFF\Project\genetic_algorithm\genetic_algorithm\bin\Debug\genetic_algorithm.pdb
+D:\Files\SCHOOL STUFF\Project\genetic_algorithm\genetic_algorithm\obj\Debug\genetic_algorithm.csprojResolveAssemblyReference.cache
+D:\Files\SCHOOL STUFF\Project\genetic_algorithm\genetic_algorithm\obj\Debug\genetic_algorithm.csproj.CoreCompileInputs.cache
+D:\Files\SCHOOL STUFF\Project\genetic_algorithm\genetic_algorithm\obj\Debug\genetic_algorithm.exe
+D:\Files\SCHOOL STUFF\Project\genetic_algorithm\genetic_algorithm\obj\Debug\genetic_algorithm.pdb
